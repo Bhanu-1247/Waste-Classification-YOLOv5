@@ -1,0 +1,1 @@
+Waste Classification using YOLOv5 is a deep learning project that detects and classifies waste materials such as plastic, metal, paper, glass, and organic waste. The system uses YOLOv5 for real-time object detection and supports smart waste management and recycling automation.
