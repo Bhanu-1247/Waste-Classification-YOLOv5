@@ -1,0 +1,16 @@
+Waste-Classification-YOLOv5/
+│
+├── dataset/
+│   ├── images/
+│   │   ├── train/
+│   │   ├── val/
+│   └── labels/
+│       ├── train/
+│       ├── val/
+│
+├── yolov5/
+│   └── (official YOLOv5 code)
+│
+├── dataset_info.md
+├── requirements.txt
+├── README.md
